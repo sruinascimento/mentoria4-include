@@ -1,0 +1,56 @@
+body {
+    background-color: #151c2f;
+    font-family: 'Poppins';
+}
+
+.container-formulario {
+    background-color: #1f2a48;
+    width: 300px;
+    height: 380px;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 14px;   
+    margin-top: 30px;
+}
+
+.container-formulario img {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+form {
+    width: 70%;
+    margin: 0 auto;
+ }
+
+form label {
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+form input {
+    display: block;
+    width: 200px;
+    font-size: 12px;
+    border-radius: 8px;
+    height:20px;
+}
+
+.botao-cadastro {
+    height: 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #2877fe;
+    color: white;
+    font-size: 15px;
+    border: solid 1px #2877fe;
+    font-weight: bold;
+    width: 98%;
+}
+
+.espaco-elemento {
+    margin: 5px 0;
+}
+
